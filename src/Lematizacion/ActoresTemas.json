@@ -1,0 +1,610 @@
+{
+    "Actores y temas": [
+        {
+            "Actores": [
+                [
+                    "Google",
+                    9
+                ],
+                [
+                    "OMS",
+                    9
+                ],
+                [
+                    "FAO",
+                    9
+                ],
+                [
+                    "NHS",
+                    9
+                ],
+                [
+                    "BCE",
+                    9
+                ],
+                [
+                    "UIDE",
+                    6
+                ],
+                [
+                    "Babahoyo",
+                    6
+                ],
+                [
+                    "FDL",
+                    4
+                ],
+                [
+                    "Universidad Internacional del Ecuador",
+                    3
+                ],
+                [
+                    "CNN",
+                    3
+                ],
+                [
+                    "No olvide Disfrute",
+                    3
+                ],
+                [
+                    "Ingerir",
+                    3
+                ],
+                [
+                    "Apale",
+                    3
+                ],
+                [
+                    "Plan Nacional de Biocombustibles",
+                    3
+                ],
+                [
+                    "Asociación de Productores de Caña de Azúcar de Milagro",
+                    3
+                ],
+                [
+                    "Saraguro",
+                    3
+                ],
+                [
+                    "En Alausí",
+                    3
+                ],
+                [
+                    "Instituto Geofísico",
+                    3
+                ],
+                [
+                    "EPN",
+                    3
+                ],
+                [
+                    "Departamento de Automatización",
+                    3
+                ],
+                [
+                    "Control Industrial de la EPN",
+                    3
+                ],
+                [
+                    "South American Development Company",
+                    3
+                ],
+                [
+                    "SADCo",
+                    3
+                ],
+                [
+                    "Universidad de Columbia",
+                    3
+                ],
+                [
+                    "Gerencia General de la SADCo",
+                    3
+                ],
+                [
+                    "Club Minero",
+                    3
+                ],
+                [
+                    "otros”",
+                    3
+                ],
+                [
+                    "Organización de Naciones Unidas para la Agricultura y la Alimentación",
+                    3
+                ],
+                [
+                    "Después",
+                    3
+                ],
+                [
+                    "Universidad de Oxford",
+                    3
+                ],
+                [
+                    "Organismo Internacional Regional de Sanidad Agropecuaria",
+                    3
+                ],
+                [
+                    "Oirsa",
+                    3
+                ],
+                [
+                    "Almacenes Reales",
+                    3
+                ],
+                [
+                    "Yerovi Indaburu",
+                    3
+                ],
+                [
+                    "Guayaquil?",
+                    3
+                ],
+                [
+                    "Servicio Nacional de Salud",
+                    3
+                ],
+                [
+                    "Times Radio",
+                    3
+                ],
+                [
+                    "Cooperación",
+                    3
+                ],
+                [
+                    "Desarrollo Económico",
+                    3
+                ],
+                [
+                    "AFP",
+                    3
+                ],
+                [
+                    "Banco Central",
+                    3
+                ],
+                [
+                    "Independiente",
+                    3
+                ],
+                [
+                    "Banco Central del Ecuador",
+                    3
+                ],
+                [
+                    "Chigüilpe",
+                    3
+                ],
+                [
+                    "Asamblea",
+                    3
+                ],
+                [
+                    "AP",
+                    3
+                ],
+                [
+                    "PSC",
+                    3
+                ],
+                [
+                    "Servicio de Rentas Internas",
+                    2
+                ],
+                [
+                    "SRI",
+                    2
+                ],
+                [
+                    "ventasTres",
+                    2
+                ]
+            ],
+            "Temas": [
+                [
+                    "emergencia sanitario",
+                    29
+                ],
+                [
+                    "arroz azúcar",
+                    24
+                ],
+                [
+                    "caña azúcar",
+                    19
+                ],
+                [
+                    "actividad físico",
+                    16
+                ],
+                [
+                    "redar social",
+                    16
+                ],
+                [
+                    "producto lácteo",
+                    14
+                ],
+                [
+                    "dieta diario",
+                    13
+                ],
+                [
+                    "fruto seco",
+                    12
+                ],
+                [
+                    "nutricionista recomendar",
+                    12
+                ],
+                [
+                    "langosta centroamericano",
+                    12
+                ],
+                [
+                    "sobrepeso obesidad",
+                    11
+                ],
+                [
+                    "sistema inmunológico",
+                    11
+                ],
+                [
+                    "producto ultraprocesados",
+                    11
+                ],
+                [
+                    "consumir azúcar",
+                    11
+                ],
+                [
+                    "reducir riesgo",
+                    10
+                ],
+                [
+                    "grano seco",
+                    10
+                ],
+                [
+                    "graso saturar",
+                    10
+                ],
+                [
+                    "kit alimenticio",
+                    10
+                ],
+                [
+                    "empresa privar",
+                    10
+                ],
+                [
+                    "kit alimento",
+                    10
+                ],
+                [
+                    "carne pollo",
+                    10
+                ],
+                [
+                    "subir kilo",
+                    9
+                ],
+                [
+                    "producción café",
+                    9
+                ],
+                [
+                    "hectárea cultivo",
+                    9
+                ],
+                [
+                    "menor cantidad",
+                    9
+                ],
+                [
+                    "campo eléctrico",
+                    9
+                ],
+                [
+                    "aceitar olivar",
+                    9
+                ],
+                [
+                    "índice precio",
+                    9
+                ],
+                [
+                    "alimentación intuitivo",
+                    9
+                ],
+                [
+                    "vegetal fruto",
+                    9
+                ],
+                [
+                    "alto azúcar",
+                    9
+                ],
+                [
+                    "tráfico esclavo",
+                    9
+                ],
+                [
+                    "marzo abril",
+                    9
+                ],
+                [
+                    "efecto negativo",
+                    8
+                ],
+                [
+                    "restricción movilidad",
+                    8
+                ],
+                [
+                    "materia primo",
+                    8
+                ],
+                [
+                    "plan alimentación",
+                    8
+                ],
+                [
+                    "foto cortesía",
+                    8
+                ],
+                [
+                    "vitamina mineral",
+                    8
+                ],
+                [
+                    "aceite vegetal",
+                    8
+                ],
+                [
+                    "pequeño casar",
+                    8
+                ],
+                [
+                    "porción vegetal",
+                    8
+                ],
+                [
+                    "escaso recurso",
+                    8
+                ],
+                [
+                    "extremo pobreza",
+                    8
+                ],
+                [
+                    "patrón orar",
+                    8
+                ],
+                [
+                    "bicicleta estático",
+                    8
+                ],
+                [
+                    "salir azúcar",
+                    7
+                ],
+                [
+                    "piel mano",
+                    7
+                ],
+                [
+                    "alimento bebida",
+                    7
+                ],
+                [
+                    "mantener alimentación",
+                    7
+                ],
+                [
+                    "pequeño productor",
+                    7
+                ],
+                [
+                    "azúcar leche",
+                    7
+                ],
+                [
+                    "hombre mujer",
+                    7
+                ],
+                [
+                    "atún sardina",
+                    7
+                ],
+                [
+                    "azúcar graso",
+                    7
+                ],
+                [
+                    "comprar producto",
+                    7
+                ],
+                [
+                    "aumentar riesgo",
+                    7
+                ],
+                [
+                    "azúcar graso saturar",
+                    7
+                ],
+                [
+                    "medir confinamiento",
+                    7
+                ],
+                [
+                    "fruto vegetal",
+                    7
+                ],
+                [
+                    "especie plantar",
+                    7
+                ],
+                [
+                    "principal producto",
+                    7
+                ],
+                [
+                    "plantar medicinal",
+                    7
+                ],
+                [
+                    "búsqueda relacionar",
+                    6
+                ],
+                [
+                    "mantener aspecto",
+                    6
+                ],
+                [
+                    "célula muerta",
+                    6
+                ],
+                [
+                    "uña pasar",
+                    6
+                ],
+                [
+                    "evitar crecimiento",
+                    6
+                ],
+                [
+                    "efecto terapéutico",
+                    6
+                ],
+                [
+                    "azúcar exceso",
+                    6
+                ],
+                [
+                    "basar carbohidrato",
+                    6
+                ],
+                [
+                    "negativo salud",
+                    6
+                ],
+                [
+                    "efecto negativo salud",
+                    6
+                ],
+                [
+                    "clase virtual",
+                    6
+                ],
+                [
+                    "generar ansiedad",
+                    6
+                ],
+                [
+                    "alimentación saludable",
+                    6
+                ],
+                [
+                    "niño adolescente",
+                    6
+                ],
+                [
+                    "adolescente pesar",
+                    6
+                ],
+                [
+                    "buscar opción",
+                    6
+                ],
+                [
+                    "hijo ganar",
+                    6
+                ],
+                [
+                    "ganar kilo",
+                    6
+                ],
+                [
+                    "padecer sobrepeso",
+                    6
+                ],
+                [
+                    "consumir excesivo",
+                    6
+                ],
+                [
+                    "cerrar edición",
+                    6
+                ],
+                [
+                    "ácido graso",
+                    6
+                ],
+                [
+                    "niño pequeño",
+                    6
+                ],
+                [
+                    "aire librar",
+                    6
+                ],
+                [
+                    "ingerir alimento",
+                    6
+                ],
+                [
+                    "desayunar almorzar",
+                    6
+                ],
+                [
+                    "hijo ganar kilo",
+                    6
+                ],
+                [
+                    "padecer sobrepeso obesidad",
+                    6
+                ],
+                [
+                    "alto riesgo",
+                    6
+                ],
+                [
+                    "servir único",
+                    6
+                ],
+                [
+                    "café especialidad",
+                    6
+                ],
+                [
+                    "fruto rojo",
+                    6
+                ],
+                [
+                    "líneo café",
+                    6
+                ],
+                [
+                    "grueso capar",
+                    6
+                ],
+                [
+                    "capar cenizo",
+                    6
+                ],
+                [
+                    "afectar hectárea",
+                    6
+                ],
+                [
+                    "caer cenizo",
+                    6
+                ]
+            ]
+        }
+    ]
+}
